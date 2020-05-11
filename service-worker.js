@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lirika-website/precache-manifest.e41ebfc9594cfb26cf917e9f5637982b.js"
+  "/lirika-website/precache-manifest.dafc7a877dda4699952df945c2224e74.js"
 );
 
 self.addEventListener('message', (event) => {
