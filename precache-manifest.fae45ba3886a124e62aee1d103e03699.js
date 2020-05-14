@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3632d6b1f51603dcc260299ce7834399",
+    "revision": "5ed5d91842d5ec2873d5fe004631bc3a",
     "url": "/lirika-website/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lirika-website/static/js/2.780b28fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "90c233c8ac9c95966f31",
-    "url": "/lirika-website/static/js/main.a95b1486.chunk.js"
+    "revision": "7802adbc7b83c965c75c",
+    "url": "/lirika-website/static/js/main.283c8e01.chunk.js"
   },
   {
     "revision": "2c610e5696b927827857",
