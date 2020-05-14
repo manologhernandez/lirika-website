@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.js": "/lirika-website/static/js/main.0682bdee.chunk.js",
-    "main.js.map": "/lirika-website/static/js/main.0682bdee.chunk.js.map",
+    "main.js": "/lirika-website/static/js/main.92dcbed9.chunk.js",
+    "main.js.map": "/lirika-website/static/js/main.92dcbed9.chunk.js.map",
     "runtime-main.js": "/lirika-website/static/js/runtime-main.330e7e55.js",
     "runtime-main.js.map": "/lirika-website/static/js/runtime-main.330e7e55.js.map",
-    "static/js/2.f332fda8.chunk.js": "/lirika-website/static/js/2.f332fda8.chunk.js",
-    "static/js/2.f332fda8.chunk.js.map": "/lirika-website/static/js/2.f332fda8.chunk.js.map",
+    "static/js/2.128c3e74.chunk.js": "/lirika-website/static/js/2.128c3e74.chunk.js",
+    "static/js/2.128c3e74.chunk.js.map": "/lirika-website/static/js/2.128c3e74.chunk.js.map",
     "index.html": "/lirika-website/index.html",
-    "precache-manifest.86a281eff8cc782627c84ed08dd1ef62.js": "/lirika-website/precache-manifest.86a281eff8cc782627c84ed08dd1ef62.js",
+    "precache-manifest.b29911988d94a784786170bfaabca659.js": "/lirika-website/precache-manifest.b29911988d94a784786170bfaabca659.js",
     "service-worker.js": "/lirika-website/service-worker.js",
-    "static/js/2.f332fda8.chunk.js.LICENSE.txt": "/lirika-website/static/js/2.f332fda8.chunk.js.LICENSE.txt",
+    "static/js/2.128c3e74.chunk.js.LICENSE.txt": "/lirika-website/static/js/2.128c3e74.chunk.js.LICENSE.txt",
     "static/media/asset-pic-1.jpg": "/lirika-website/static/media/asset-pic-1.8681cf13.jpg",
+    "static/media/contact-1.jpg": "/lirika-website/static/media/contact-1.a20c842d.jpg",
+    "static/media/contact-10.jpg": "/lirika-website/static/media/contact-10.7276b37c.jpg",
+    "static/media/contact-2.jpg": "/lirika-website/static/media/contact-2.7471fc46.jpg",
+    "static/media/contact-3.jpg": "/lirika-website/static/media/contact-3.9f602902.jpg",
+    "static/media/contact-4.jpg": "/lirika-website/static/media/contact-4.36fc58fd.jpg",
+    "static/media/contact-5.jpg": "/lirika-website/static/media/contact-5.6a36e1b6.jpg",
+    "static/media/contact-6.jpg": "/lirika-website/static/media/contact-6.d623546d.jpg",
+    "static/media/contact-7.jpg": "/lirika-website/static/media/contact-7.a845bc76.jpg",
+    "static/media/contact-8.jpg": "/lirika-website/static/media/contact-8.a5b8d2b4.jpg",
     "static/media/daena.jpg": "/lirika-website/static/media/daena.0320f4d5.jpg",
     "static/media/erwin.jpg": "/lirika-website/static/media/erwin.1d74f4da.jpg",
     "static/media/joana.jpg": "/lirika-website/static/media/joana.fc24443f.jpg",
@@ -24,7 +33,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.330e7e55.js",
-    "static/js/2.f332fda8.chunk.js",
-    "static/js/main.0682bdee.chunk.js"
+    "static/js/2.128c3e74.chunk.js",
+    "static/js/main.92dcbed9.chunk.js"
   ]
 }
