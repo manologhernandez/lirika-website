@@ -970,9 +970,16 @@ nav.clear {
 /*Media Queries*/
 
 @media screen and (max-width: 768px) {
+  html,
   body {
     overflow-x: hidden;
   }
+  body {
+    position: relative;
+  }
+  /* body {
+    overflow-x: hidden;
+  } */
 
   nav {
     background-color: black;
@@ -1173,12 +1180,18 @@ nav.clear {
     height: 300px;
   }
 
-  .contact-socmed ul {
-    justify-content: center;
+  .contact-socmed {
+    padding-top: 1em;
   }
 
-  .contact-socmed ul li:nth-child(4) a {
-    margin-right: 10px;
+  .contact-socmed ul {
+    justify-content: space-between;
+  }
+
+  .contact-socmed ul li a {
+    margin: 0;
+    width: 2.5em;
+    height: 2.5em;
   }
 
   .image-slider {
