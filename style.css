@@ -278,7 +278,7 @@ nav.clear {
 @keyframes pop-in {
   0% {
     opacity: 0;
-    transform: translateY(-4rem) scale(.8);
+    transform: translateY(-4rem) scale(0.8);
   }
 
   100% {
@@ -289,7 +289,6 @@ nav.clear {
 
 .animate-pop-in {
   animation: pop-in 0.8s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
-  ;
   opacity: 0;
 }
 
@@ -1176,7 +1175,6 @@ nav.clear {
 /*Media Queries*/
 
 @media screen and (max-width: 768px) {
-
   html,
   body {
     overflow-x: hidden;
@@ -1192,6 +1190,7 @@ nav.clear {
 
   nav {
     background-color: black;
+    padding: 5px 10%;
   }
 
   nav .navlogo {
@@ -1242,11 +1241,13 @@ nav.clear {
     font-size: 3em;
   }
 
+  .hero-items img {
+    margin: -20px;
+  }
 
   .hero-items-name {
     padding-bottom: 2vh;
     padding-top: 0;
-
   }
 
   .about-section {
