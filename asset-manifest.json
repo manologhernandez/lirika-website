@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/lirika-website/static/js/main.ebcd635c.chunk.js",
-    "main.js.map": "/lirika-website/static/js/main.ebcd635c.chunk.js.map",
+    "main.js": "/lirika-website/static/js/main.b43a20b3.chunk.js",
+    "main.js.map": "/lirika-website/static/js/main.b43a20b3.chunk.js.map",
     "runtime-main.js": "/lirika-website/static/js/runtime-main.330e7e55.js",
     "runtime-main.js.map": "/lirika-website/static/js/runtime-main.330e7e55.js.map",
     "static/js/2.780b28fe.chunk.js": "/lirika-website/static/js/2.780b28fe.chunk.js",
     "static/js/2.780b28fe.chunk.js.map": "/lirika-website/static/js/2.780b28fe.chunk.js.map",
     "index.html": "/lirika-website/index.html",
-    "precache-manifest.4db66bdf21b2cd24a9468a0c2c066a30.js": "/lirika-website/precache-manifest.4db66bdf21b2cd24a9468a0c2c066a30.js",
+    "precache-manifest.af50e82c0cc06c3004e30e80e6f759e9.js": "/lirika-website/precache-manifest.af50e82c0cc06c3004e30e80e6f759e9.js",
     "service-worker.js": "/lirika-website/service-worker.js",
     "static/js/2.780b28fe.chunk.js.LICENSE.txt": "/lirika-website/static/js/2.780b28fe.chunk.js.LICENSE.txt",
     "static/media/asset-pic-1.jpg": "/lirika-website/static/media/asset-pic-1.87688397.jpg",
@@ -34,6 +34,6 @@
   "entrypoints": [
     "static/js/runtime-main.330e7e55.js",
     "static/js/2.780b28fe.chunk.js",
-    "static/js/main.ebcd635c.chunk.js"
+    "static/js/main.b43a20b3.chunk.js"
   ]
 }

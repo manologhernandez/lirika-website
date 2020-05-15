@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,500,700,900|Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,500,700,900|Open+Sans|Special+Elite&display=swap");
 
 * {
   box-sizing: border-box;
@@ -334,7 +334,9 @@ nav.clear {
 }
 
 .hero-items-desc {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Special Elite", cursive;
+  font-size: 1.2em;
+  /* font-family: "Open Sans", sans-serif; */
   letter-spacing: 0.4vw;
   text-transform: lowercase;
   line-height: 2em;
